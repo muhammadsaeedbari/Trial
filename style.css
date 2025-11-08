@@ -1,0 +1,16 @@
+#master{
+    
+    height: 98vh;
+    width: 98vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+#child{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+
+}
